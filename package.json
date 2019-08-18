@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/openodoro/openodoro-back/issues"
   },
-  "homepage": "https://github.com/openodoro/openodoro-back#readme"
+  "homepage": "https://github.com/openodoro/openodoro-back#readme",
+  "dependencies": {
+    "@nestjs/common": "^6.5.3",
+    "@nestjs/core": "^6.5.3",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.2"
+  }
 }
